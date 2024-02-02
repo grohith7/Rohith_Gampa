@@ -56,7 +56,7 @@
 									<a href="#" class="image"><img src="images/mypic.jpeg" alt="" /></a>
 									<div class="content">
 										<h2 class="major">My Portfolio</h2>
-										<p>My Name is Rohit Gampa. I am a student doing my Masters in Computer Science at Old Dominion University. I have completed my bachelors in Computer Science in 2021 From B.V Raju institute of technology. Data Science is an area of interest for me and I hope to learn more about this in the course this semester.</p>
+										<p>My Name is Rohith Gampa. I am a student doing my Masters in Computer Science at Old Dominion University. I have completed my bachelors in Computer Science in 2021 From B.V Raju institute of technology. I bring a unique blend of technical expertise, creative problem-solving, and effective communication .</p>
 										<a href="#" class="special">Learn more</a>
 									</div>
 								</div>
